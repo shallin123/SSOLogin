@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javax.servlet.jsp:jsp-api:2.2" type="repository">
+    <properties maven-id="javax.servlet.jsp:jsp-api:2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SSO_Server/web/WEB-INF/lib/jsp-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
